@@ -1,4 +1,8 @@
-<h3 align="center">No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar. </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Loading+software+Mind,+body+and+soul)](https://git.io/typing-svg)
+
+<h3 align="center"><i>No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar.  <b>-"El libro de los cinco anillos" (1645) </b></i>
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioruedass&label=Profile%20views&color=0e75b6&style=flat" alt="julioruedass" /> </p>
 
