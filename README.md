@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioruedass&label=Profile%20views&color=0e75b6&style=flat" alt="julioruedass" /> </p>
 
