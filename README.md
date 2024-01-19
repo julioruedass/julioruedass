@@ -4,12 +4,11 @@
 
 <h3 align="center"><i>No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar.  <b>-"El libro de los cinco anillos" (1645) </b></i>
  </h3>
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=julioruedass&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
 <p><h3 align="left">Connect with me: </h3><img  align ="right" src="https://komarev.com/ghpvc/?username=julioruedass&label=Profile%20views&color=0e75b6&style=flat" alt="julioruedass" /></p>
 <p align="left">
 <a href="https://www.linkedin.com/in/julio-rueda-722996264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Julio Rueda" height="30" width="40" /></a>
