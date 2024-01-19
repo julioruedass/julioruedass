@@ -5,7 +5,6 @@
 
 <h4 align="right"><i>No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar.  <br><b>"El libro de los cinco anillos" (1645) </b></i></h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- <br>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=julioruedass&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img  align ="right" src="https://komarev.com/ghpvc/?username=julioruedass&label=Profile%20views&color=0e75b6&style=flat" alt="julioruedass" />
