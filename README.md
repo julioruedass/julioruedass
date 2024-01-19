@@ -1,6 +1,6 @@
 
 <p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Loading..+..software..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Loading+Software)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Mind,+Body+and+Soul)](https://git.io/typing-svg)
 </p>
 <h3 align="center"><i>No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar.  <b>-"El libro de los cinco anillos" (1645) </b></i>
