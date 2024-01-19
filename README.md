@@ -1,15 +1,13 @@
+<h2 align="center">🪖Con honor y compromiso me presento : David Rueda 🫡</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Loading+Software)](https://git.io/typing-svg)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Mind,+Body+and+Soul)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3000&pause=2000&color=22952C&background=7E5A4600&center=true&vCenter=true&random=false&width=435&lines=Cargando+.+.+.+.+.++cuerpo+mente+y+alma)](https://git.io/typing-svg) 
 
 
-<h3 align="center"><i>No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar.  <b>-"El libro de los cinco anillos" (1645) </b></i>
- </h3>
+<h4 align="right"><i>No leas por leer, ni imites, sino que debes tener interés por descubrir tú mismo estas cosas, se debe reflexionar.  <br><b>"El libro de los cinco anillos" (1645) </b></i></h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <br>
+ <br>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=julioruedass&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <br>
 <img  align ="right" src="https://komarev.com/ghpvc/?username=julioruedass&label=Profile%20views&color=0e75b6&style=flat" alt="julioruedass" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +17,6 @@
 </p>
 
 <!--Contact Section--> 
-
 <h2 align="center">⚔️ Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ ⚔️ </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/julio-rueda-722996264" target="_blank">
