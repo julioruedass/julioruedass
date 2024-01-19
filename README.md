@@ -1,3 +1,4 @@
+<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Loading+software+Mind,+body+and+soul)](https://git.io/typing-svg)
 
