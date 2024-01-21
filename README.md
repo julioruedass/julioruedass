@@ -28,13 +28,17 @@
   </a> 
   </h4>
   
- <h4 align="center" dir="center">   <a>
+ <h4 align="center" dir="center">   
     <img src="https://github-readme-stats.vercel.app/api?username=julioruedass&show_icons=true&theme=dark&locale=en" alt="julioruedass" align=center/>
-  </a></h4>
+  
+  <img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=julioruedass&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
+  </h4>
 
 
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=julioruedass&style=flat-square" align="center" />
-</div>   
+#
+
