@@ -1,4 +1,4 @@
-# 🪖Con honor y compromiso me presento : David Rueda 🫡
+# 🪖Con honor y compromiso me presento : David Rueda 🫡 [![GitHub followers](https://img.shields.io/github/followers/julioruedass.svg?style=social&label=Followers)](https://github.com/julioruedass?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3000&pause=2000&color=22952C&background=7E5A4600&center=true&vCenter=true&random=false&width=435&lines=Cargando+.+.+.+.+.++cuerpo+mente+y+alma)](https://git.io/typing-svg)<img  align ="right" src="https://komarev.com/ghpvc/?username=julioruedass&label=Profile%20views&color=0e75b6&style=flat" alt="julioruedass" />
 
