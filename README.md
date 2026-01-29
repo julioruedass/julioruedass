@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/julioruedass.svg?style=social&label=Seguidores)](https://github.com/julioruedass?tab=followers)
 
 <p align="center">
-  <img src="nombre_de_la_imagen.png" alt="Guerrero y su perro bajo las estrellas" width="100%" style="border-radius: 10px;" />
+  <img src="uni.png" alt="Guerrero y su perro bajo las estrellas" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
