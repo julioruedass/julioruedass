@@ -5,9 +5,9 @@
   <img src="uni.png" alt="Guerrero y su perro bajo las estrellas" width="100%" style="border-radius: 10px;" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&duration=3000&pause=1000&color=3388FF&center=true&vCenter=true&width=435&lines=Bajo+las+constelaciones...;Forjando+mente+y+esp%C3%ADritu;En+la+cima+del+c%C3%B3digo;Con+mi+fiel+perro+al+lado" alt="Typing SVG" />
-</p>
+##<p align="center">
+##  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&duration=3000&pause=1000&color=3388FF&center=true&vCenter=true&width=435&lines=Bajo+las+constelaciones...;Forjando+mente+y+esp%C3%ADritu;En+la+cima+del+c%C3%B3digo;Con+mi+fiel+perro+al+lado" alt="Typing SVG" />
+##</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=julioruedass&label=Exploradores+vistos&color=4E342E&style=flat" alt="vistas" />
